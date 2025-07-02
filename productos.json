@@ -1,20 +1,34 @@
 [
-  {
-    "nombre": "Camisa Azul",
-    "detalle": "Talla M",
-    "precio": "$12.99",
-    "imagen": "https://via.placeholder.com/250x250?text=Camisa+Azul"
-  },
-  {
-    "nombre": "Zapatos Negros",
-    "detalle": "Talla 42",
-    "precio": "$24.99",
-    "imagen": "https://via.placeholder.com/250x250?text=Zapatos+Negros"
-  },
-  {
-    "nombre": "Gorra Roja",
-    "detalle": "Unisex",
-    "precio": "$7.50",
-    "imagen": "https://via.placeholder.com/250x250?text=Gorra+Roja"
-  }
+    {
+        "nombre": "Camisa Azul",
+        "categoria": "Camisas",
+        "talla": "M",
+        "color": "Azul",
+        "precio": "$12.99",
+        "imagen": "https://via.placeholder.com/250x250?text=Camisa+Azul"
+    },
+    {
+        "nombre": "Zapatos Negros",
+        "categoria": "Zapatos",
+        "talla": "42",
+        "color": "Negro",
+        "precio": "$24.99",
+        "imagen": "https://via.placeholder.com/250x250?text=Zapatos+Negros"
+    },
+    {
+        "nombre": "Gorra Roja",
+        "categoria": "Gorras",
+        "talla": "L",
+        "color": "Rojo",
+        "precio": "$7.50",
+        "imagen": "https://via.placeholder.com/250x250?text=Gorra+Roja"
+    },
+    {
+        "nombre": "Camisa Blanca",
+        "categoria": "Camisas",
+        "talla": "S",
+        "color": "Blanco",
+        "precio": "$11.50",
+        "imagen": "https://via.placeholder.com/250x250?text=Camisa+Blanca"
+    }
 ]
